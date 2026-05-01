@@ -21,5 +21,5 @@ This project focuses on predicting salaries using machine learning based on fact
 To build a model that can accurately estimate salaries and identify key factors affecting income.
 
 ## 📁 Project File
-- VS-Code: `salary_prediction.ipynb`
+- Jupyter Notebook: `salary_prediction.ipynb`
 
