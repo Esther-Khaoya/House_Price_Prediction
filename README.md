@@ -1,7 +1,9 @@
 # Salary Prediction Using Machine Learning
 
 ## 📌 Project Overview
-This project focuses on predicting salaries using machine learning based on factors such as experience, education, and job role.
+This project focuses on predicting professional salaries using machine learning algorithms,by analyzing key factors such as years of experience, education, location and job role.
+The model provides data-driven salary estimates to help organizations optimize compensation strategies and candidates negotiate effectively.
+
 
 ## 🛠️ Tools & Technologies
 - Python
