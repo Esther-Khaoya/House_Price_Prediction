@@ -6,11 +6,11 @@ The model provides data-driven salary estimates to help organizations optimize c
 
 
 ## 🛠️ Tools & Technologies
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib / Seaborn
+- Language: Python
+- Data Manipulation: Pandas, NumPy
+- Machine Learning: Scikit-learn
+- Visualization: Matplotlib / Seaborn
+-Environment: Jupyter Notebook
 
 ## 📊 Process
 - Data Cleaning
