@@ -10,8 +10,8 @@ The model provides data-driven salary estimates to help organizations optimize c
 - Data Manipulation: Pandas, NumPy
 - Machine Learning: Scikit-learn
 - Visualization: Matplotlib / Seaborn
--Environment: Jupyter Notebook
-
+- Environment: Jupyter Notebook
+  
 ## 📊 Process
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
